@@ -1,15 +1,15 @@
 ---
 layout: page
 menu: false
-date: '2020-02-27 01:53:59'
-title: About
-permalink: /about/
-description: Some description.
----
+date: 2020-02-27 01:53:59
+title: "/Tentang_"
+permalink: "/tentang/"
+description: ''
 
+---
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
 
-# About
+# /Tentang_
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
